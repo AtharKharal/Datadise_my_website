@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datadise on Datadise</title>
+    <link>/</link>
+    <description>Recent content in Datadise on Datadise</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0500</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0500</pubDate>
+      
+      <guid>/talk/example-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Fuzzy Inference Engine in C&#43;&#43;</title>
+      <link>/project/anfis_in_cpp/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/anfis_in_cpp/</guid>
+      <description>&lt;p&gt;A multipurpose Fuzzy Logic based inference engine has been developed. Written in C++ it can be embedded in other applications, for example in a PIC microcontroller to fabricate a neuro-fuzzy chip. This engine has already been used by another project to find the pressure distribution around airfoils.   (NUST/CAE/AE/Kashif_985514)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Airfoil Geometery Determination Using Neural Nets and Genetic Algorithms</title>
+      <link>/project/ann_and_gas_for_airfoil_geos_aymen/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/ann_and_gas_for_airfoil_geos_aymen/</guid>
+      <description>&lt;p&gt;Determining the geometry of an aerodynamic object which satisfies pre-stated distribution of the forces of lift and drag at different angles of attack is the inverse problem in CFD. This project developed a neural net for this problem for NACA airfoil series. Resulting geometries have been cross checked using a total Navier Stokes solver and very accurate results have been found. The project was graded as 2nd best by the faculty of CAE.&lt;br /&gt;
+(NUST/CAE/AE/AYMEN)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Antenna Parameters Determination Using Neural Nets and Genetic Algorithms</title>
+      <link>/project/antenna_determination_muzamil/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/antenna_determination_muzamil/</guid>
+      <description>&lt;p&gt;Determining the geometry of an electromagnetic object which satisfies pre-stated electromagnetic scatter-patterns is the inverse problem in Antenna Theory. This project developed a neural net for this problem for various antennas. Resulting geometries have been cross checked using a total Navier Stokes solver and very accurate results have been found.&lt;br /&gt;
+(NUST/CAE/AE/MUZAMIL)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial Neural Net Development for Nozzel Guide Vane Area</title>
+      <link>/project/ann_for_ngv_area/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/ann_for_ngv_area/</guid>
+      <description>&lt;p&gt;A custom neural network was developed using MATLAB, for a precision critical but ill posed problem. The neural net replaced a faulty computer assembly at Mirage Rebuilt Factory of Pakistan Air Force at Kamra. Additional work was done by interfacing the neural output with industrial machines. The project was adjudged by the faculty of College of Aeronautical Engineering (NUST) to be the best and was awarded Best Project Gold Medal. Results of this project were also presented as research paper at a conference.  (NUST/CAE/AE/WAQAS_PMA733027)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Auto Text Generator for Report Writing</title>
+      <link>/project/auto_text_generation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/auto_text_generation/</guid>
+      <description>&lt;p&gt;Auto Text Generators for Psych Report Writing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamic Parking Fee</title>
+      <link>/project/parking_fee/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/parking_fee/</guid>
+      <description>&lt;p&gt;Data of various features recorded at a parking facility has been analyzed and optimized parking rates have been determined for various times, days and locations of city.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Educational Institution Analysis</title>
+      <link>/project/edu_inst_analysis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/edu_inst_analysis/</guid>
+      <description>&lt;p&gt;This is a prescriptive analytics project aimed at critical business decision for the Top Executives of a training and educational institution. The institution desired to hide its public mention. It trains students for a high-value specialized skill and subjects and at the same time. It imparts traditional 16 year educational degree program in 16 different disciplines. In total, 45 different variables (features) have been analyzed for this study.&lt;/p&gt;
+
+&lt;p&gt;After finding the general characteristics of the data at hand, four major analyses have been carried out. Analysis I determines the most important variable which impacts the Performance for all-inclusive and special-group students, respectively. In the light of important variables, Analysis II looks into the quality of supply and performance of stuff supplied by two specific institutions. This analysis also looks into spatial patterns on Provincial and District levels. Performance and other measures of the special groups e.g. based on Educational Institutions and Intermediate Boards have been studied in Analysis III. Analysis IV comprises some intresting temporal patterns in the dataset. These may serve as directions for future work. The report concludes with a discussion of results and recommendations in the light of this study.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Excel Automation for Exams Generation</title>
+      <link>/project/auto_exam_maker/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/auto_exam_maker/</guid>
+      <description>&lt;p&gt;Solution developed for a renowned chain of schools. This is an Exam generation system which also allows for remote question bank additions by its teaching staff spread all over the country. The developed solution is bilingual i.e. available for both English and Urdu based subjects. Choice of questions in an exam is random though main features of the exam e.g. number of sections and number of questions in each section are determined by the user.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Excel Automation for Result Collection and Computation System</title>
+      <link>/project/result_collection_automation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/result_collection_automation/</guid>
+      <description>&lt;p&gt;Automation of Result Collection and Compilation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/example-external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Nets and Airfoil Geometeries</title>
+      <link>/project/ann_for_airfoil_geos_sameer/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/ann_for_airfoil_geos_sameer/</guid>
+      <description>&lt;p&gt;Determining the geometry of an aerodynamic object which satisfies pre-stated distribution of the forces of lift and drag at different angles of attack is the inverse problem in CFD. This project developed a neural net for this problem for NACA airfoil series. Resulting geometries have been cross checked using a total Navier Stokes solver and very accurate results have been found. The project was graded as 2nd best by the faculty of CAE.&lt;br /&gt;
+(NUST/CAE/AE/SAMEER)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neuro-Fuzzy Infernce System</title>
+      <link>/project/anfis_for_airfoil_cp_sameer/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/anfis_for_airfoil_cp_sameer/</guid>
+      <description>&lt;p&gt;A neuro-fuzzy inference system was developed to estimate the wind pressure round an aerodynamic object. The system required extremely small time for its computation whereas the same computation using Navier-Stokes equations required 4 to 5 computing hours. Our developed system produced 64 fuzzy rules as well. Study of these rules for further analytical extension in CFD is now underway. The work was graded as the 2nd best by the faculty.   (NUST/CAE/AE/NAUMAN_985517)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PhDs from Pakistani Universities</title>
+      <link>/project/phds_in_pakistan/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/phds_in_pakistan/</guid>
+      <description>&lt;p&gt;Client desired to ascertain the quality of PhDs produced indigenously and also to get deeper insight into various aspects of this in-country effort so far. Results have been submitted as a research publication as well.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Target Identification Using Neural Networks</title>
+      <link>/project/ann_for_target_identification/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/ann_for_target_identification/</guid>
+      <description>&lt;p&gt;This project is the first phase of a full-fledged target identification system to be mounted on a drone. The project successfully achieved its goals of development of a neural net to identify objects and then its integration with hardware. Work may further be extended in other aspects like miniaturization of apparatus and real time processing.&lt;br /&gt;
+(NUST/CAE/AvE/Akhtar)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
