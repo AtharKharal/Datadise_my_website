@@ -4,7 +4,7 @@ widget = "hero"
 active = true
 date = 2017-10-15
 
-title = "A Data Paradise"
+title = "DATA paraDISE"
 
 # Order that this section will appear in.
 weight = 3
@@ -14,7 +14,7 @@ weight = 3
 [header]
   overlay_color = "#fe7214"  # An HTML color value.
   overlay_img = "banner_head_1.png"  # Image path relative to your `static/img/` folder.
-#  overlay_filter = 0.01  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.01  # Darken the image. Value in range 0-1.
 
 
 +++
