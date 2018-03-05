@@ -16,21 +16,21 @@ weight = 5
 +++
 
 ## **MATLAB**  
-  Class Lectures: [1](MATLAB Lecture 1.pdf), [2](MATLAB Lecture 2.pdf)
+  Class Lectures: [1](https://github.com/AtharKharal/StudyNotes/blob/master/MATLAB%20Lecture%201.pdf), [2](https://github.com/AtharKharal/StudyNotes/blob/master/MATLAB%20Lecture%202.pdf)
   
 ## **Engineering Mathematics**  
   Maths notes in PDF format.  
   
 * **Laplace Transforms**  
-    Student Notes: [download](LaplaceTransforms1.pdf)  
-    Class Lectures: [1](Laplace Transforms - Lecture 1.pdf), [2](Laplace Transforms - Lecture 2.pdf), [3](Laplace Transforms - Lecture 3.pdf),  [4](Laplace Transforms - Lecture 4.pdf),  [5](Laplace Transforms - Lecture 5.pdf),  [6](Laplace Transforms - Lecture 6.pdf)    
+    Student Notes: [download](https://github.com/AtharKharal/StudyNotes/blob/master/Laplace%20Transforms%201.pdf)  
+    Class Lectures: [1](https://github.com/AtharKharal/StudyNotes/blob/master/Laplace%20Transforms%20-%20Lecture%201.pdf), [2](https://github.com/AtharKharal/StudyNotes/blob/master/Laplace%20Transforms%20-%20Lecture%202.pdf), [3](https://github.com/AtharKharal/StudyNotes/blob/master/Laplace%20Transforms%20-%20Lecture%203.pdf),  [4](https://github.com/AtharKharal/StudyNotes/blob/master/Laplace%20Transforms%20-%20Lecture%204.pdf),  [5](https://github.com/AtharKharal/StudyNotes/blob/master/Laplace%20Transforms%20-%20Lecture%205.pdf),  [6](https://github.com/AtharKharal/StudyNotes/blob/master/Laplace%20Transforms%20-%20Lecture%206.pdf)    
   
 * **Vector Differential Calculus**  
-    Student Notes: [download](Vector Differential Calculus.pdf)  
-    Class Lectures: [3](Vector Differential Calculus - Lecture 3.pdf)
+    Student Notes: [download](https://github.com/AtharKharal/StudyNotes/blob/master/Vector%20Differential%20Calculus.pdf)  
+    Class Lectures: 
     
 * **Vector Integral Calculus**    
-    Student Notes: [download](Vector Integral Calculus.pdf)
+    Student Notes: [download](https://github.com/AtharKharal/StudyNotes/blob/master/Vector%20Integral%20Calculus.pdf)
 
   
 ## **Data Analytics and Machine Learning**  
