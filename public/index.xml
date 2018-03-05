@@ -11,7 +11,19 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Example Talk</title>
+      <title>Data Science in Pakistan</title>
+      <link>/post/2018-03-04-data-science-in-pakistan/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0500</pubDate>
+      
+      <guid>/post/2018-03-04-data-science-in-pakistan/</guid>
+      <description>&lt;p&gt;Pakistan currently seems way behind as far as awareness let alone education of Data Science is concerned. Though a huge number of students is available in raw form with background training in Mathematics, Statistics and / or Computer Science.&lt;/p&gt;
+
+&lt;p&gt;Some programs are being run presently in IT University, Lahore and IBA Karachi. But their standing is too rudimentary at the moment. One hopes the HEC and Universities would endeavour to tap this huge potential for raising an ex-pat workforce which is highly paid on one hand and on the other hand their development and training does not ask for expensive equipment as needed in other discipline like Physics, Biology etc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science: the new revolution</title>
       <link>/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0500</pubDate>
       
@@ -151,17 +163,6 @@
       
       <guid>/project/phds_in_pakistan/</guid>
       <description>&lt;p&gt;Client desired to ascertain the quality of PhDs produced indigenously and also to get deeper insight into various aspects of this in-country effort so far. Results have been submitted as a research publication as well.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Target Identification Using Neural Networks</title>
-      <link>/project/ann_for_target_identification/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/ann_for_target_identification/</guid>
-      <description>&lt;p&gt;This project is the first phase of a full-fledged target identification system to be mounted on a drone. The project successfully achieved its goals of development of a neural net to identify objects and then its integration with hardware. Work may further be extended in other aspects like miniaturization of apparatus and real time processing.&lt;br /&gt;
-(NUST/CAE/AvE/Akhtar)&lt;/p&gt;
 </description>
     </item>
     

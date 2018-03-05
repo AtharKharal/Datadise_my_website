@@ -36,7 +36,30 @@ From data to wisdom &amp;hellip; the final word</description>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography Athar Kharal is a professor of Mathematics and Analytics at the Air University, Pakistan. His research interests include Neural Networks, Fuzzy Logic, Decision Science and Fuzzy Topology. He presently leads the data initiative for Registrar CFT Office.</description>
+      <description>Biography Athar Kharal is a professor of Mathematics and Analytics at the Air University, Pakistan. His research interests include Neural Networks, Fuzzy Logic, Decision Science and Fuzzy Topology. He presently leads the data initiative of Air University Risalpur Campus.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description>MATLAB Class Lectures: 1, 2
+Engineering Mathematics Maths notes in PDF format.
+ Laplace Transforms
+Student Notes: download
+Class Lectures: 1, 2, 3, 4, 5, 6
+ Vector Differential Calculus
+Student Notes: download
+Class Lectures: 3
+ Vector Integral Calculus
+Student Notes: download
+  Data Analytics and Machine Learning  Data Analytics
+Student Notes:
+ Neural Networks
+Student Notes:
+  Statistics and Statistical Learning Theory  Statistics</description>
     </item>
     
     <item>
@@ -82,17 +105,6 @@ From data to wisdom &amp;hellip; the final word</description>
       
       <guid>/home/projects/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-I am a teaching instructor for the following courses at University X:
- CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
     </item>
     
     <item>

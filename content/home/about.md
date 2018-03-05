@@ -37,5 +37,5 @@ weight = 5
  
 +++
 ## Biography
-Athar Kharal is a professor of Mathematics and Analytics at the Air University, Pakistan. His research interests include Neural Networks, Fuzzy Logic, Decision Science and Fuzzy Topology. He presently leads the data initiative for Registrar CFT Office.
+Athar Kharal is a professor of Mathematics and Analytics at the Air University, Pakistan. His research interests include Neural Networks, Fuzzy Logic, Decision Science and Fuzzy Topology. He presently leads the data initiative of Air University Risalpur Campus.
 
