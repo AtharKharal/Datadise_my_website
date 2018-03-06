@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>A Data Scientist View of PhDs in Pakistan</title>
+      <link>/publication/phds_in_pakistan/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/phds_in_pakistan/</guid>
+      <description>This is one my major result of the work we have been doing since many years. Applying Neural Networks and Genetic Algorithms based machine-learning and optimization on a variety of problems in the field of Aerospace Engineering we transformed the slow computation into lightening-fast tools based upon neural computation based machine learning.</description>
+    </item>
+    
+    <item>
       <title>Neural Networks Based Airfoil Generation for a Given Cp Using Bezier-PARSEC Parameterization</title>
       <link>/publication/ann_based_cp_by_ga_bezier_kharal_aymen/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>

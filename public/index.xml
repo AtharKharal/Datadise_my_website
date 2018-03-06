@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A Data Scientist View of PhDs in Pakistan</title>
+      <link>/publication/phds_in_pakistan/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/phds_in_pakistan/</guid>
+      <description>&lt;p&gt;This is one my major result of the work we have been doing since many years. Applying Neural Networks and Genetic Algorithms based machine-learning and optimization on a variety of problems in the field of Aerospace Engineering we transformed the slow computation into lightening-fast tools based upon neural computation based machine learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Data Science in Pakistan</title>
       <link>/post/2018-03-04-data-science-in-pakistan/</link>
       <pubDate>Sun, 04 Mar 2018 00:00:00 +0500</pubDate>
@@ -153,16 +163,6 @@
       
       <guid>/project/anfis_for_airfoil_cp_sameer/</guid>
       <description>&lt;p&gt;A neuro-fuzzy inference system was developed to estimate the wind pressure round an aerodynamic object. The system required extremely small time for its computation whereas the same computation using Navier-Stokes equations required 4 to 5 computing hours. Our developed system produced 64 fuzzy rules as well. Study of these rules for further analytical extension in CFD is now underway. The work was graded as the 2nd best by the faculty.   (NUST/CAE/AE/NAUMAN_985517)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>PhDs from Pakistani Universities</title>
-      <link>/project/phds_in_pakistan/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/phds_in_pakistan/</guid>
-      <description>&lt;p&gt;Client desired to ascertain the quality of PhDs produced indigenously and also to get deeper insight into various aspects of this in-country effort so far. Results have been submitted as a research publication as well.&lt;/p&gt;
 </description>
     </item>
     
