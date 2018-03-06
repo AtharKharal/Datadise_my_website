@@ -34,10 +34,14 @@ weight = 60
 
   
 ## **Data Analytics and Machine Learning**  
+
+*  **Here is my** [video lecture](https://www.youtube.com/watch?v=VxGrMpy0_9Y).  
+
 *  **Data Analytics**  
     Student Notes:   
 *  **Neural Networks**  
     Student Notes:   
+    
     
   
 ## **Statistics and Statistical Learning Theory**  
