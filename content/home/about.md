@@ -21,12 +21,17 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Mathematics"
+  course = "PhD Mathematics"
   institution = "BZ University"
   year = 2013
 
 [[education.courses]]
-  course = "MSc in Mathematics"
+  course = "MSc War Studies"
+  institution = "National Defence University"
+  year = 2018
+  
+[[education.courses]]
+  course = "MSc Mathematics"
   institution = "BZ University"
   year = 1996
 
@@ -37,5 +42,5 @@ weight = 5
  
 +++
 ## Biography
-Athar Kharal is a professor of Mathematics and Analytics at the Air University, Pakistan. His research interests include Neural Networks, Fuzzy Logic, Decision Science and Fuzzy Topology. He presently leads the data initiative of Air University Risalpur Campus.
+Athar Kharal is a professor of Mathematics and Analytics at the Air University, Pakistan. His research interests include Neural Networks, Fuzzy Logic, Decision Science and Fuzzy Topology. He is presently leading the data initiative at Air University Risalpur Campus.
 

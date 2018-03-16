@@ -5,15 +5,6 @@
     
     <url>
     
-      <loc>/publication/phds_in_pakistan/</loc>
-      <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/post/2018-03-04-data-science-in-pakistan/</loc>
       <lastmod>2018-03-04T00:00:00+05:00</lastmod>
     </url>
@@ -194,6 +185,15 @@
     
     <url>
     
+      <loc>/publication/aco_ga_ann_waqas_saleem/</loc>
+      <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/ann_based_cp_by_ga_bezier_kharal_aymen/</loc>
       <lastmod>2012-06-01T00:00:00+00:00</lastmod>
     </url>
@@ -203,8 +203,8 @@
     
     <url>
     
-      <loc>/publication_types/2/</loc>
-      <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+      <loc>/publication_types/1/</loc>
+      <lastmod>2015-06-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -213,8 +213,8 @@
     
     <url>
     
-      <loc>/publication_types/3/</loc>
-      <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+      <loc>/publication_types/2/</loc>
+      <lastmod>2012-06-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -333,7 +333,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+      <lastmod>2015-06-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

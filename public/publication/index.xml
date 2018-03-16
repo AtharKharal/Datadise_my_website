@@ -13,12 +13,12 @@
     
     
     <item>
-      <title>A Data Scientist View of PhDs in Pakistan</title>
-      <link>/publication/phds_in_pakistan/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <title>Comparison of ACO and GA techniques to generate neural network based Bezier-PARSEC parameterized airfoil</title>
+      <link>/publication/aco_ga_ann_waqas_saleem/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/phds_in_pakistan/</guid>
-      <description>This is one my major result of the work we have been doing since many years. Applying Neural Networks and Genetic Algorithms based machine-learning and optimization on a variety of problems in the field of Aerospace Engineering we transformed the slow computation into lightening-fast tools based upon neural computation based machine learning.</description>
+      <guid>/publication/aco_ga_ann_waqas_saleem/</guid>
+      <description>This research uses Neural Networks to determine two dimensional airfoil geometry using Bezier-PARSEC parameterization. Earlier, Ant Colony Optimization (ACO) techniques have been used to solve combinatorial optimization problems like TSP. This work extends ACO method from TSP problem to design parameters for estimating unknown Bezier-PARSEC parameters that define upper and lower curves of the airfoil. The efficiency and the performance of ACO technique was compared to that of GA. The work established that ACO exhibited improved performance than the GA in terms of optimization time and level of precision achieved.</description>
     </item>
     
     <item>
