@@ -8,8 +8,8 @@ date = "2016-04-20T00:00:00"
 title = "Recent Posts"
 subtitle = ""
 
-# Order that this section will appear in.
-weight = 40
+# Order that this section will appear in.#40
+weight = 80 
 
 # Filter posts by tag.
 #  By default, show all recent posts.

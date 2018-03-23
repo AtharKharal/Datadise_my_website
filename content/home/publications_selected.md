@@ -9,8 +9,8 @@ date = 2016-04-20
 title = "Selected Publications"
 subtitle = ""
 
-# Order that this section will appear in.
-weight = 10
+# Order that this section will appear in.#10
+weight = 40 
 
 # List format.
 #   0 = Simple

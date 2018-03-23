@@ -6,8 +6,8 @@ date = 2017-10-15
 
 title = "DATA paraDISE"
 
-# Order that this section will appear in.
-weight = 3
+# Order that this section will appear in.#3
+weight = 10 
 
 # Overlay a color or image (optional).
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
