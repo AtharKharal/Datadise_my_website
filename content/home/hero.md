@@ -31,5 +31,5 @@ weight = 10
 **And from knowledge, the wisdom**  
   
 **Lo! Data Science is a journey**  
-**From data to wisdom  ... the final word**
+**From data to wisdom ... and .. to wars  ... the final word?**
 
