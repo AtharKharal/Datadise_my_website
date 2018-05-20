@@ -6,7 +6,7 @@ date = 2017-10-15
 
 title = "DATA paraDISE"
 
-# Order that this section will appear in.#3
+# Order that this section will appear in.
 weight = 10 
 
 # Overlay a color or image (optional).
@@ -21,7 +21,7 @@ weight = 10
 
 **Star Wars? Ney!**   
 **World which is Third, may go to Water Wars but**  
-**First World soon will go to**  
+**First World will soon go to**  
 **Data Wars!**   
   
 **Soon, sooner! not later**  
