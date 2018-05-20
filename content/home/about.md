@@ -14,7 +14,7 @@ weight = 20
     "Neural Networks",
     "Fuzzy Logic and Topology",
     "Decision Science",
-    "R, MATLAB, SPSS, Visual C++, Version Control (Git), Apache Spark",
+    "R, MATLAB, SPSS, Visual C++, VCS (Git), Apache Spark",
     "PowerBI, Python, RapidMiner, KNIME, Tableau, Google Analytics"
   ]
 
