@@ -15,7 +15,7 @@ weight = 20
     "Fuzzy Logic and Topology",
     "Decision Science",
     "R, MATLAB, SPSS, Visual C++, Version Control (Git), Apache Spark",
-    "Python, RapidMiner, KNIME, PowerBI, Tableau, Google Analytics"
+    "PowerBI, Python, RapidMiner, KNIME, Tableau, Google Analytics"
   ]
 
 
